@@ -1,5 +1,4 @@
 # DEAR_KeyMapper
-This is my homebrew key layout. It is designed for easy input of Japanese and English.
 
 
 --DEAR配列のせつめい--
