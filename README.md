@@ -1,4 +1,4 @@
-# DEAR_KeyMapper
+# DEAR_KeyMap
 
 
 --DEAR配列のせつめい--
