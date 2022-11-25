@@ -5,15 +5,13 @@ This is my homebrew key layout. It is designed for easy input of Japanese and En
 --DEAR配列のせつめい--
 2022/11/25版
 
+```
 bs| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | @ | ^ | \ |
-
    | \ | j | m | z | w | b | d | e | a | x | - | / |
-   
  ctrl| g | k | s | t | h | y | o | u | i | r | ; | : |
- 
-      | l | p | , | n | f | c | . | q | v | [ | ] |
-      
+    | l | p | , | n | f | c | . | q | v | [ | ] |
            | 半/全 |   space   | shift |
+``` 
            
 DEAR配列は，主に日本語と英語を入力することを目的に作った配列です．
 特有の利点として，記号配列が整理されているのでプログラミング目的にも使いやすい点があげられます．
