@@ -4,20 +4,28 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;QWERTY配列下のPCでDEAR配列をエミュレートするためのマクロです
+;少し動作が不安定な点があるので基本的にはQWERTYを使う
+
+;CapsLockをCtrlにしている都合上，Ctrlがロックされる現象が起こる
+;そうなったときは左Ctrlをもう一度押せば解放されます
+
+;早すぎる入力には非対応，体感200key/minですでに処理の限界が出ている感じがする
 
 
 vkF3::BS
 vkF4::BS
+vk1D::Send,{vkF3}
+vkF0::LCtrl
 
-vk1D::Send,vkF3
+vk1C::RShift
 
 vkBA::vkBB
 q::vkE2
 c::vkBC
 m::.
-]::/
+]::vkBA
 @::-
-[::vkBA
+[::/
 -::@
 /::[
 vkE2::]
