@@ -9,7 +9,7 @@ This is my homebrew key layout. It is designed for easy input of Japanese and En
 bs| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | @ | ^ | \ |
    | \ | j | m | z | w | b | d | e | a | x | - | / |
  ctrl| g | k | s | t | h | y | o | u | i | r | ; | : |
-    | l | p | , | n | f | c | . | q | v | [ | ] |
+       | l | p | , | n | f | c | . | q | v | [ | ] |
            | 半/全 |   space   | shift |
 ``` 
            
