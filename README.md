@@ -3,7 +3,6 @@ This is my homebrew key layout. It is designed for easy input of Japanese and En
 
 
 --DEAR配列のせつめい--
-2022/11/25版
 
 ```
 bs| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | @ | ^ | \ |
