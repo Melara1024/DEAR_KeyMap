@@ -1,0 +1,1 @@
+xkbcomp default.xkb $DISPLAY
