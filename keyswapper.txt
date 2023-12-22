@@ -5,8 +5,8 @@ Windows Registry Editor Version 5.00
 27,00,00,00,  change + 1
 
 1d,00,3a,00,  caps < ctrl
-0e,00,29,00,  zh < bs
-29,00,7b,00,  mh < zh
+0e,00,29,00,  バックスペース < 全角半角
+29,00,7b,00,  全角半角 < 無変換
 1e,00,18,00,    a < o
 30,00,15,00,    b < y
 2e,00,31,00,    c < n
