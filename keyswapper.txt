@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 "Scancode Map"=hex:00,00,00,00,00,00,00,00,
 27,00,00,00,  change + 1
 
-1d,00,3a,00,  caps < ctrl
+1d,00,3a,00,  ctrl < caps
 0e,00,29,00,  バックスペース < 全角半角
 29,00,7b,00,  全角半角 < 無変換
 1e,00,18,00,    a < o
